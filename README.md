@@ -104,9 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - youremail@example.com
-
-Project Link: [https://github.com/yourusername/seek-the-kingdom](https://github.com/yourusername/seek-the-kingdom)
+Seek The Kingdom - seekthekingdom@gmail.com
 
 ---
 
